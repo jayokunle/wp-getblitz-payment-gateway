@@ -1,3 +1,10 @@
+## [0.0.6](https://github.com/jayokunle/wp-getblitz-payment-gateway/compare/v0.0.5...v0.0.6) (2026-09-27)
+
+
+### Bug Fixes
+
+* credit JAyokunle Enterprise UG as plugin author ([37757b6](https://github.com/jayokunle/wp-getblitz-payment-gateway/commit/37757b6e5715d1dd16120c004e811aa74ec9fc20))
+
 ## [0.0.5](https://github.com/getblitz-io/wp-getblitz-payment-gateway/compare/v0.0.4...v0.0.5) (2026-06-03)
 
 
