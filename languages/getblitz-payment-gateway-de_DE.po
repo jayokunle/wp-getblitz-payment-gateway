@@ -1,5 +1,5 @@
 # GetBlitz Payment Gateway – German (de_DE)
-# Copyright (C) 2024 GetBlitz
+# Copyright (C) 2024 JAyokunle Enterprise UG
 # This file is distributed under the same license as the GetBlitz Payment Gateway plugin.
 #
 msgid ""

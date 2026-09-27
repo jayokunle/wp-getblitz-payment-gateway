@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: GetBlitz Payment Gateway
- * Plugin URI: https://github.com/getblitz-io/wp-getblitz-payment-gateway
+ * Plugin URI: https://github.com/jayokunle/wp-getblitz-payment-gateway
  * Description: Integrate GetBlitz secure and fast checkout into your WooCommerce store.
  * Version: 0.0.5
- * Author: GetBlitz
- * Author URI: https://getblitz.io/
+ * Author: JAyokunle Enterprise UG
+ * Author URI: https://jayokunle.com/
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
  * Text Domain: getblitz-payment-gateway

@@ -21,8 +21,8 @@ Key Features:
 * **Zero Transaction Fees**: Pay a flat monthly fee to GetBlitz, not a percentage of your sales.
 * **Data Sovereignty**: Your customer data stays on your infrastructure.
 * **Real-time Notifications**: Instant order updates via WebSockets.
-* **Plugin Source Code**: [GitHub Repository](https://github.com/getblitz-io/wp-getblitz-payment-gateway)
-* **Latest Releases**: [GitHub Releases](https://github.com/getblitz-io/wp-getblitz-payment-gateway/releases)
+* **Plugin Source Code**: [GitHub Repository](https://github.com/jayokunle/wp-getblitz-payment-gateway)
+* **Latest Releases**: [GitHub Releases](https://github.com/jayokunle/wp-getblitz-payment-gateway/releases)
 
 == Installation ==
 
