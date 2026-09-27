@@ -10,9 +10,9 @@ With this WooCommerce plugin, you can accept real-time EUR bank transfers across
 
 - **Main Website:** [https://www.getblitz.io](https://www.getblitz.io)
 - **Documentation:** [https://docs.getblitz.io](https://docs.getblitz.io)
-- **Open Source Repository:** [https://github.com/getblitz-io/getblitz](https://github.com/getblitz-io/getblitz)
-- **Plugin Repository:** [https://github.com/getblitz-io/wp-getblitz-payment-gateway](https://github.com/getblitz-io/wp-getblitz-payment-gateway)
-- **Latest Release:** [https://github.com/getblitz-io/wp-getblitz-payment-gateway/releases](https://github.com/getblitz-io/wp-getblitz-payment-gateway/releases)
+- **Open Source Repository:** [https://github.com/jayokunle/getblitz](https://github.com/jayokunle/getblitz)
+- **Plugin Repository:** [https://github.com/jayokunle/wp-getblitz-payment-gateway](https://github.com/jayokunle/wp-getblitz-payment-gateway)
+- **Latest Release:** [https://github.com/jayokunle/wp-getblitz-payment-gateway/releases](https://github.com/jayokunle/wp-getblitz-payment-gateway/releases)
 
 ## Features
 
@@ -53,7 +53,7 @@ We welcome contributions from the community! If you'd like to help improve the G
 4. Push to the branch (`git push origin feature/amazing-feature`).
 5. Open a Pull Request.
 
-Please check the main [GetBlitz repository](https://github.com/getblitz-io/getblitz) for broader architectural discussions and core contribution guidelines.
+Please check the main [GetBlitz repository](https://github.com/jayokunle/getblitz) for broader architectural discussions and core contribution guidelines.
 
 ## License
 
